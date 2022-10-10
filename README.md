@@ -4,7 +4,8 @@
 
 #### 💻 Interested in ML, AI and digital signal processing.
 
-#### 🧩 I am currently focusing on algorithms, writing in C.
+#### 🔭 I am currently focusing on algorithms, writing in C.
+
 
 ### Technologies
 <div align="center">
