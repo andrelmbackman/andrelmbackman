@@ -2,10 +2,9 @@
 
 #### 🎸 I'm a music educator turned software engineering student based in Helsinki, Finland.
 
-#### 💻 Interested in ML, AI and digital signal processing.
+#### 💻 Interested in algorithms, ML, AI and digital signal processing.
 
-#### 🔭 I am currently focusing on algorithms, writing in C.
-
+#### 🔭 I am currently working on a graph traversal algorithm, writing in C. Keyword: flow optimization
 
 ### Technologies
 <div align="center">
