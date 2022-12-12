@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### 🎸 I'm a music educator turned software engineering student based in Helsinki, Finland.
+#### 🎸 I'm a music educator turned software engineering student (https://www.hive.fi/en/) based in Helsinki, Finland.
 
-#### 💻 Interested in algorithms, ML, AI and digital signal processing.
+#### 💻 Interested in algorithms, ML, AI and digital signal processing, to mention a few.
 
-#### 🔭 I am currently working on a graph traversal algorithm, writing in C. Keyword: flow optimization
+#### 🔭 My most recent pair project was a graph traversal algorithm, focusing on flow optimization. Currently doing the Fullstack Open course at University of Helsinki (open university).
 
 ### Technologies
 <div align="center">
