@@ -4,7 +4,7 @@
 
 #### 💻 Interested in algorithms, ML, AI and digital signal processing, to mention a few.
 
-#### 🔭 Currently working on a group project from the 42 curriculum called Corewar. The task is to implement the programming game Core War from 1984 and to program an assembler that turns assembly code into bytecode. My most recent pair project was a graph traversal algorithm, focusing on flow optimization.
+#### 🔭 Currently working on a group project from the 42 curriculum called Corewar. The task is to implement the programming game Core War from 1984 and to program an assembler that turns assembly code into bytecode. My most recent pair project was a graph traversal algorithm, focusing on flow optimization. When I find the time I work on the Fullstack Open course from University of Helsinki.
 ### Technologies
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
