@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🎸 I'm a music educator turned software engineering student (https://www.hive.fi/en/) based in Helsinki, Finland.
+#### 🎸 I'm a music educator turned software developer student (https://www.hive.fi/en/) based in Helsinki, Finland.
 
 #### 💻 Interested in algorithms, ML, AI and digital signal processing, to mention a few.
 
