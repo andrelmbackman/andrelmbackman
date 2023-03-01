@@ -7,7 +7,7 @@
 #### 🔭 Currently working on:
 - Corewar, a group project from the algorithm branch of the 42 curriculum. The task is to implement the programming game Core War from 1984 and to program an assembler that turns assembly code into bytecode.
 - In my spare time I work on the Fullstack Open course from University of Helsinki.
-- My most recent pair project was a graph traversal algorithm, focusing on flow optimization.
+- My most recent pair project was Lem-in, a graph traversal algorithm focusing on flow optimization.
 
 ### Technologies
 <div align="center">
