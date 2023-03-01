@@ -2,7 +2,7 @@
 
 #### 🎸 I'm a music educator turned software developer student (https://www.hive.fi/en/) based in Helsinki, Finland.
 
-#### 💻 Interested in algorithms, ML, AI and digital signal processing, to mention a few.
+#### 💻 Interested in algorithms, ML, AI, cybersecurity and digital signal processing, to mention a few.
 
 #### 🔭 Currently working on:
 - Corewar, a group project from the algorithm branch of the 42 curriculum. The task is to implement the programming game Core War from 1984 and to program an assembler that turns assembly code into bytecode.
