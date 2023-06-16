@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-#### 🎸 I'm a music educator turned software developer student (https://www.hive.fi/en/) based in Helsinki, Finland.
+#### 🎸 I'm a trainee in Open Source Security, developing tools in Go
 
 #### 💻 Interested in algorithms, ML, AI, cybersecurity and digital signal processing, to mention a few.
 
-#### 🔭 Currently working on:
+#### 🔭 As a student at Hive Helsinki, where my area of focus was algorithms I worked on:
 - Corewar, a group project from the algorithm branch of the 42 curriculum. The task is to implement the programming game Core War from 1984 and to program an assembler that turns assembly code into bytecode.
-- In my spare time I explore and learn new technologies such as C++, data science, React and Unity.
-- My most recent pair project was Lem-in, a graph traversal algorithm focusing on flow optimization.
+- Lem-in, a pair-project. Graph-traversal algorithm based on the Edmonds-Karp algorithm.
+
+In my spare time I have explored and learn new technologies such as C++, data science, React and Unity. I also freelance as a musician.
+
 
 ### Technologies
 <div align="center">
