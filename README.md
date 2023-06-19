@@ -4,7 +4,7 @@
 
 #### 💻 Interested in algorithms, ML, AI, cybersecurity and digital signal processing, to mention a few.
 
-#### 🔭 As a student at Hive Helsinki, where my area of focus was algorithms I worked on:
+#### 🔭 As a student at Hive Helsinki, where my area of focus was algorithms, I worked on:
 - Corewar, a group project from the algorithm branch of the 42 curriculum. The task is to implement the programming game Core War from 1984 and to program an assembler that turns assembly code into bytecode.
 - Lem-in, a pair-project. Graph-traversal algorithm based on the Edmonds-Karp algorithm.
 
