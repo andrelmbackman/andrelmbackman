@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🎸 I'm a trainee in Open Source Security, developing tools in Go
+#### 🎸 I'm a trainee in Open Source Security, developing tools to determine the security of Open Source projects
 
 #### 💻 Interested in algorithms, ML, AI, cybersecurity and digital signal processing, to mention a few.
 
