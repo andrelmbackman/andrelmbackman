@@ -2,13 +2,13 @@
 
 #### 🎸 I'm a trainee in Open Source Security, developing tools to determine the security of Open Source projects
 
-#### 💻 Interested in algorithms, ML, AI, cybersecurity and digital signal processing, to mention a few.
+#### 💻 Interested in algorithms, ML, AI, cybersecurity, and digital signal processing, to mention a few.
 
 #### 🔭 As a student at Hive Helsinki, where my area of focus was algorithms, I worked on:
 - Corewar, a group project from the algorithm branch of the 42 curriculum. The task is to implement the programming game Core War from 1984 and to program an assembler that turns assembly code into bytecode.
-- Lem-in, a pair-project. Graph-traversal algorithm based on the Edmonds-Karp algorithm.
+- Lem-in, a pair project. A graph-traversal algorithm based on the Edmonds-Karp algorithm.
 
-In my spare time I have explored and learn new technologies such as C++, data science, React and Unity. I also freelance as a musician.
+In my spare time, I like to explore and learn new technologies, lately it has been Cisco's Networking Academy. I am also freelancing as a musician.
 
 
 ### Technologies
