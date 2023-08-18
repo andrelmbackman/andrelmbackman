@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### 🎸 I'm a trainee in Open Source Security, developing tools to determine the security of Open Source projects
+#### 🎸 Software developer, problem-solver with a varied skill set.
 
 #### 💻 Interested in algorithms, ML, AI, cybersecurity, and digital signal processing, to mention a few.
 
