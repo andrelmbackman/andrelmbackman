@@ -1,14 +1,14 @@
-7### Hi there 👋
+### Hi there, I am André 👋
 
-#### 🎸 Software developer, problem-solver with a varied skill set.
+#### 🎸 Software developer, driven and detail-oriented problem-solver who likes teamwork
 
-#### 💻 Interested in algorithms, ML, AI, cybersecurity, and digital signal processing, to mention a few.
+#### 💻 Broad interests including cybersecurity, algorithms, sustainability, games, and IT in general
 
 #### 🔭 As a student at Hive Helsinki, where my area of focus was algorithms, I worked on:
-- Corewar, a group project from the algorithm branch of the 42 curriculum. The task is to implement the programming game Core War from 1984 and to program an assembler that turns assembly code into bytecode.
+- Corewar, a group project from the algorithm branch of the 42 curriculum. The task is to implement the programming game Core War from 1984 and to build an assembler that turns assembly code into bytecode.
 - Lem-in, a pair project. A graph-traversal algorithm based on the Edmonds-Karp algorithm.
 
-In my spare time, I like to explore and learn new technologies, lately it has been Cisco's Networking Academy. I am also freelancing as a musician.
+In my spare time, I like to explore and learn new technologies. Lately, I've been expanding my skills in networking and cybersecurity through Cisco's Networking Academy, as well as CTF competitions.
 
 
 ### Technologies
