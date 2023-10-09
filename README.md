@@ -1,4 +1,6 @@
-### Hi there, I am André 👋
+#### Hi there, I am André 👋
+
+#### :technologist: Good news: open for work! [Message me on Linkedin](https://www.linkedin.com/in/andre-backman/)
 
 #### 🎸 Software developer, driven and detail-oriented problem-solver who likes teamwork
 
