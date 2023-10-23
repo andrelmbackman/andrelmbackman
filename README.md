@@ -8,7 +8,9 @@
 
 #### 🔭 As a student at Hive Helsinki, where my area of focus was algorithms, I worked on:
 - Corewar, a group project from the algorithm branch of the 42 curriculum. The task is to implement the programming game Core War from 1984 and to build an assembler that turns assembly code into bytecode.
-- Lem-in, a pair project. A graph-traversal algorithm based on the Edmonds-Karp algorithm.
+- [Lem-in](https://github.com/andrelmbackman/Lem-in), a pair project. A graph-traversal algorithm based on the Edmonds-Karp algorithm.
+- [Libft](https://github.com/andrelmbackman/libft), a C library with implemented libc functions, getline, print, and other useful functions.
+- [Push-swap](https://github.com/andrelmbackman/push_swap), a sorting algorithm.
 
 In my spare time, I like to explore and learn new technologies. Lately, I've been expanding my skills in networking and cybersecurity through Cisco's Networking Academy, as well as CTF competitions.
 
