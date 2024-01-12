@@ -12,7 +12,8 @@
 - [Libft](https://github.com/andrelmbackman/libft), a C library with implemented libc functions, getline, print, and other useful functions.
 - [Push-swap](https://github.com/andrelmbackman/push_swap), a sorting algorithm.
 
-In my spare time, I like to explore and learn new technologies. Lately, I've been expanding my skills in networking and cybersecurity through Cisco's Networking Academy, as well as CTF competitions.
+In my spare time, I like to explore and learn new technologies. Lately, I've been expanding my skills in web development.
+In the last year, I have learned about networking and cybersecurity through Cisco's Networking Academy and CTF competitions.
 
 
 ### Technologies
