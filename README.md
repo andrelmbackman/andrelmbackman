@@ -1,19 +1,20 @@
 #### Hi there, I am André 👋
 
-#### :technologist: Good news: open for work! **[Message me on Linkedin](https://www.linkedin.com/in/andre-backman/)**
+#### :technologist: Open for work! **[Message me on Linkedin](https://www.linkedin.com/in/andre-backman/)**
 
-#### 🎸 Software developer, driven and detail-oriented problem-solver who likes teamwork
+#### 🎸 Musician turned Software Engineer with a passion for problem-solving and teamwork.
 
-#### 💻 Broad interests including cybersecurity, algorithms, sustainability, games, and IT in general
+#### 💻 Broad interests including backend, algorithms, cybersecurity, sustainability, games, and IT.
 
-#### 🔭 As a student at Hive Helsinki, where my area of focus was algorithms, I worked on:
+#### 🔭 As a student at Hive Helsinki, my focus was on algorithms. Here are some projects I've worked on:
+- [Lem-in](https://github.com/andrelmbackman/Lem-in), a pair project. A bespoke graph-traversal algorithm based on the Edmonds-Karp algorithm.
+- [Libft](https://github.com/andrelmbackman/libft), a C library with implemented libc functions, getline, printf, and other useful functions.
+- [Push-swap](https://github.com/andrelmbackman/push_swap), a sorting algorithm utilizing stack data structure and a specific set of operations to
+manipulate the stacks.
 - Corewar, a group project from the algorithm branch of the 42 curriculum. The task is to implement the programming game Core War from 1984 and to build an assembler that turns assembly code into bytecode.
-- [Lem-in](https://github.com/andrelmbackman/Lem-in), a pair project. A graph-traversal algorithm based on the Edmonds-Karp algorithm.
-- [Libft](https://github.com/andrelmbackman/libft), a C library with implemented libc functions, getline, print, and other useful functions.
-- [Push-swap](https://github.com/andrelmbackman/push_swap), a sorting algorithm.
 
-In my spare time, I like to explore and learn new technologies. Lately, I've been expanding my skills in web development.
-In the last year, I have learned about networking and cybersecurity through Cisco's Networking Academy and CTF competitions.
+#### 🌐 Learned networking and cybersecurity through Cisco's Networking Academy and CTF competitions.  
+#### 🌱 Always learning something new.
 
 
 ### Technologies
