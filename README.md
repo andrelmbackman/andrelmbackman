@@ -8,9 +8,9 @@
 
 #### 🔭 As a student at Hive Helsinki, my focus was on algorithms. Here are some projects I've worked on:
 - [Lem-in](https://github.com/andrelmbackman/Lem-in), a pair project. A bespoke graph-traversal algorithm based on the Edmonds-Karp algorithm.
-- [Libft](https://github.com/andrelmbackman/libft), a C library with implemented libc functions, getline, printf, and other useful functions.
 - [Push-swap](https://github.com/andrelmbackman/push_swap), a sorting algorithm utilizing stack data structure and a specific set of operations to
 manipulate the stacks.
+- [Libft](https://github.com/andrelmbackman/libft), a C library with implemented libc functions, getline, printf, and other useful functions.
 - Corewar, a group project from the algorithm branch of the 42 curriculum. The task is to implement the programming game Core War from 1984 and to build an assembler that turns assembly code into bytecode.
 
 #### 🌐 Learned networking and cybersecurity through Cisco's Networking Academy and CTF competitions.  
