@@ -2,7 +2,7 @@
 
 #### :technologist: Open for work! **[Message me on Linkedin](https://www.linkedin.com/in/andre-backman/)**
 
-#### 🎸 Musician turned Software Engineer with a passion for problem-solving and teamwork.
+#### 🎸 Musician turned Software Developer with a passion for problem-solving and teamwork.
 
 #### 💻 Broad interests including backend, algorithms, cybersecurity, sustainability, games, and IT.
 
