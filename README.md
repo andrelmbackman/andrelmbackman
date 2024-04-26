@@ -1,10 +1,8 @@
 #### Hi there, I am André 👋
 
-#### :technologist: Open for work! **[Message me on Linkedin](https://www.linkedin.com/in/andre-backman/)**
-
 #### 🎸 Musician turned Software Developer with a passion for problem-solving and teamwork.
 
-#### 💻 Broad interests including backend, algorithms, cybersecurity, sustainability, games, and IT.
+#### 💻 Broad interests including game development, backend, algorithms, cybersecurity, sustainability, and IT.
 
 #### 🔭 As a student at Hive Helsinki, my focus was on algorithms. Here are some projects I've worked on:
 - [Lem-in](https://github.com/andrelmbackman/Lem-in), a pair project. A bespoke graph-traversal algorithm based on the Edmonds-Karp algorithm.
@@ -14,7 +12,7 @@ manipulate the stacks.
 - Corewar, a group project from the algorithm branch of the 42 curriculum. The task is to implement the programming game Core War from 1984 and to build an assembler that turns assembly code into bytecode.
 
 #### 🌐 Learned networking and cybersecurity through Cisco's Networking Academy and CTF competitions.  
-#### 🌱 Always learning something new.
+#### 🌱 Always learning something new, currently it is game development.
 
 
 ### Technologies
