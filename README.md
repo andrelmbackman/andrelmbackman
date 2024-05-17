@@ -14,7 +14,6 @@ manipulate the stacks.
 #### 🌐 Learned networking and cybersecurity through Cisco's Networking Academy and CTF competitions.  
 #### 🌱 Always learning something new, currently it is game development.
 
-
 ### Technologies
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
@@ -30,6 +29,12 @@ manipulate the stacks.
 
 
 <!--
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrelmbackman&show_icons=true&theme=react&locale=en&layout=compact" alt="andrelmbackman" style="height: 14vh"/>
+<img src="https://github-readme-stats.vercel.app/api?username=andrelmbackman&show_icons=true&theme=react&locale=en" alt="andrelmbackman" style="height: 14vh"/>
+</p>
+
+
 **andrelmbackman/andrelmbackman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
