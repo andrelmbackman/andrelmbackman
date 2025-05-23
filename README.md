@@ -12,7 +12,15 @@ manipulate the stacks.
 - Corewar, a group project from the algorithm branch of the 42 curriculum. The task is to implement the programming game Core War from 1984 and to build an assembler that turns assembly code into bytecode.
 
 
-### Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,bash,c,cs,docker,git,github,go,kubernetes,py,ubuntu,unity&perline=6" />
+  </a>
+</p>
+
+
+<!--
 <div align="center">
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" /></code>
@@ -23,10 +31,14 @@ manipulate the stacks.
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="C#" title="C#" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity" /></code>
+
 </div>
 
 
-<!--
+
+
+
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andrelmbackman&show_icons=true&theme=react&locale=en&layout=compact" alt="andrelmbackman" style="height: 14vh"/>
 <img src="https://github-readme-stats.vercel.app/api?username=andrelmbackman&show_icons=true&theme=react&locale=en" alt="andrelmbackman" style="height: 14vh"/>
