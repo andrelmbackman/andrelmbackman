@@ -1,8 +1,8 @@
 #### Hi there, I am André 👋
 
-#### 🎸 Musician turned Software Engineer
+#### 🎸 Musician and Software/DevOps Engineer
 
-#### 💻 Broad interests including DevOps, game development, backend, algorithms, cybersecurity, sustainability, and IT.
+#### 💻 Broad interests including DevOps, game development, backend, algorithms, security, sustainability, and IT.
 
 #### 🔭 As a student at Hive Helsinki, my focus was on algorithms. Here are some projects I've worked on:
 - [Lem-in](https://github.com/andrelmbackman/Lem-in), a pair project. A bespoke graph-traversal algorithm based on the Edmonds-Karp algorithm.
